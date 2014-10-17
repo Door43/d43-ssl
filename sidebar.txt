@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ssl:home|Door43 (ssl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ssl|d43-ssl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ssl/archive/master.zip|d43-ssl.zip]]
+
+**Recent Changes**
+{{changes>ns = ssl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ssl|Ethnologue data]]
+
